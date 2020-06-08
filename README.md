@@ -1,4 +1,4 @@
-# Welcome to the PHP MVC Framework
+# PHP MVC Framework, bana göre Advanced arkadaşa göre simple :) 
 
 This is a simple MVC framework for building web applications in PHP.
 
